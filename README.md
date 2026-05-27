@@ -7,7 +7,6 @@
 <br />
 
 <a href="https://jeffresu.me/"><img src="https://img.shields.io/badge/portfolio-jeffresu.me-0a0a0a?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" /></a>
-<img src="https://komarev.com/ghpvc/?username=orangebread&style=flat-square&color=58a6ff&label=profile+views" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/orangebread?style=flat-square&label=followers&color=58a6ff" alt="GitHub followers" />
 
 </div>
@@ -56,12 +55,12 @@ Open to staff-level IC and tech-lead roles.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/orangebread/promptngn">promptngn</a></h4>
-      <p>VS Code extension for managing reusable prompts across projects — version-controlled prompt engineering in the editor.</p>
+      <h4><a href="https://github.com/orangebread/pagemint">pagemint</a></h4>
+      <p>Chrome extension that saves any web page as a trustworthy PDF — fully local, zero telemetry, open source. Captures the dynamic dashboards and logged-in pages Chrome's built-in print breaks on.</p>
       <p>
-        <img src="https://img.shields.io/github/stars/orangebread/promptngn?style=flat-square&color=58a6ff&label=%E2%98%85" alt="Stars" />
-        <img src="https://img.shields.io/github/last-commit/orangebread/promptngn?style=flat-square&color=58a6ff" alt="Last commit" />
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.io/github/stars/orangebread/pagemint?style=flat-square&color=58a6ff&label=%E2%98%85" alt="Stars" />
+        <img src="https://img.shields.io/github/last-commit/orangebread/pagemint?style=flat-square&color=58a6ff" alt="Last commit" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       </p>
     </td>
   </tr>
